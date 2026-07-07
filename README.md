@@ -25,10 +25,3 @@ Daksha 2.0 is a centralized platform for showcasing event information, schedules
 2. Open `index.html` in your browser
 3. Explore the event details and register
 
-## License
-
-[Add your license here]
-
-## Contact
-
-For questions or support, contact IEEE SB CEC.
